@@ -2,7 +2,7 @@
 
 ## Live links (replace with your own)
 - Leaflet Map https://likeaword.github.io/borderlines2025
-- Google Sheets template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1ZVnHn8vrJgGe7Iw_9xsrfEaU3lAtV7H2Eq_-mie76dM/edit?gid=0#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
